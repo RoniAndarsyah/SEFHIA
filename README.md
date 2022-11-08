@@ -14,15 +14,6 @@ $ npm install
 $ npm start
 ```
 
-#### Build
-
-Run `build` to build the project. The build artifacts will be stored in the `build/` directory.
-
-```bash
-# build for production with minification
-$ npm run build
-```
-
 ## Aset yang dimasukan pada sistem
 
 ```
