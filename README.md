@@ -1,6 +1,6 @@
 # SEFHIA with CoreUI
 
-SEFHIA adalah (Sistem Informasi Human Resource dan Paymeny Automasi)
+SEFHIA adalah (Sistem Informasi Human Resource dan Payment Automasi)
 
 ## Installation
 
