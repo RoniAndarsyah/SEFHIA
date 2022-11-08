@@ -1,6 +1,6 @@
-# SEFHIA with CoreUI
+# SEFHIA not SHEILA
 
-SEFHIA adalah (Sistem Informasi Human Resource dan Paymeny Automasi)
+SEFHIA adalah (Sistem Informasi Human Resource dan Payment Automasi)
 
 ## Installation
 
@@ -14,8 +14,7 @@ $ npm install
 $ npm start
 ```
 
-## Aset yang dimasukan pada sistem
-
+## Dokumentasi dan aset yang dimasukan pada sistem
 ```
 SEFHIA (Sistem Informasi Human Resource dan Paymeny Automasi)
 ├── public/          # halaman static
